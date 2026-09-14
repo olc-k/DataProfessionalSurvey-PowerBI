@@ -25,7 +25,7 @@ This dashboard was designed to answer questions such as:
 ## Key Insights
 
 * **Python** is the most popular programming language among respondents, followed by **R** and **C/C++**.
-* **Data Scientists** have the highest estimated average salary at approximately **$93k**, followed by Data Engineers (~$65k) and Data Architects (~$63k).
+* **Data Scientists** have the highest estimated average salary at approximately **$93k**, followed by Data Engineers (\~$65k) and Data Architects (\~$63k).
 * **Data Analysts** have an estimated average salary of approximately **$55k**.
 * Respondents report higher satisfaction with **work-life balance (5.74/10)** than with **salary (4.27/10)**.
 * **42.7%** of respondents consider entering the data industry neither easy nor difficult, while **24.8%** consider it easy.
